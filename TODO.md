@@ -1,0 +1,2 @@
+- Create a script to scaffold a component
+- Tweak eslintrc rules
